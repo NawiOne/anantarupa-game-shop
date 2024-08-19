@@ -44,7 +44,6 @@
    ```sh
     nodemon
     ```
-    <br>
 
 ## Endpoint List
 **BASE URL -> http://localhost:3000**
