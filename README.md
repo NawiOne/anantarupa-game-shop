@@ -14,7 +14,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NawiOne/anantarupa-game-shop
+   git clone https://github.com/NawiOne/anantarupa-game-shop.git
    ```
 2. Switch to the repo folder
    ```sh
